@@ -1,0 +1,29 @@
+body {
+    background-color: burlywood;
+    font: normal 15pt Arial;
+}
+header {
+    text-align: center;
+}
+section {
+    padding: 15px;
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+    margin: auto;
+}
+footer {
+    text-align: center;
+}
+#res {
+    text-align: center;
+}
+#botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 174, 87);
+    padding: 7px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
